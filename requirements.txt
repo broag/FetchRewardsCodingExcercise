@@ -1,0 +1,4 @@
+flask
+pydantic~=1.8
+pytest
+requests
